@@ -1,0 +1,13 @@
+div {
+  width: 15em;
+  height: 15em;
+  background: linear-gradient(red, blue);
+  color: white;
+  margin: 200px auto;
+  align-content: center;
+  
+}
+
+h1 {
+  margin: 0 25px;
+}
