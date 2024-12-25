@@ -3,11 +3,19 @@ div {
   height: 15em;
   background: linear-gradient(red, blue);
   color: white;
-  margin: 200px auto;
+  margin: 150px auto;
   align-content: center;
   
 }
 
 h1 {
   margin: 0 25px;
+}
+
+.circle {
+  width: 15em;
+  height: 15em;
+  border-radius: 50%;
+  background: linear-gradient(0.25turn, grey, lightblue);
+  margin: -100px, 10px, 0px;
 }
